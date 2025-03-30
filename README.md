@@ -21,14 +21,13 @@ Este é um sistema de blog inspirado no tema *The Midnight Gospel*, onde os usu�
    ```sh
    git clone https://github.com/Kauanxm10/ProjetoWeb2.git
    ```
-2. Importe o banco de dados (`.sql`) para seu MySQL
+2. Importe o banco de dados (`blogdb.sql`) para seu MySQL
 3. Configure o arquivo de conexão com o banco (`config.php` ou similar)
 4. Inicie um servidor local (exemplo: XAMPP ou WAMP) e acesse o projeto no navegador
 
 ## 📩 Contato
 Desenvolvido por **Kauan Xavier Moreira**
 - [GitHub](https://github.com/Kauanxm10)
-- [LinkedIn](#) *(adicione seu link se tiver)*
 
 ---
 
