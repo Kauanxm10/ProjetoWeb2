@@ -1,0 +1,94 @@
+body {
+    margin: 10%;
+    position: relative;
+    min-height: 100vh;
+}
+.b1{
+    background: linear-gradient(to bottom, #05778f, #78125c )
+}
+
+#navcor {
+    background: linear-gradient(to bottom, #78125c , #05778f)
+}
+
+#navc {
+    font-size: 180%;
+    font-style: italic;
+    font-family: Bradley Hand, cursive;
+    color: rgb(235, 235, 235);
+
+}
+
+#p1 {
+    font-family: Bradley Hand, cursive;
+    color: rgb(235, 235, 235);
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.card-body {
+    background-color: #28abc2;
+}
+
+#h31 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(230, 227, 55);
+}
+
+#bt1 {
+    color: rgb(212, 129, 250);
+    background-color: rgb(206, 30, 177);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#p2 {
+    font-family: cursive;
+    color: rgb(247, 247, 247);
+}
+
+#t1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(250, 253, 46);
+}
+
+#date1{
+    color: rgb(110, 235, 127);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#t22{
+    font-family: Bradley Hand, cursive;;
+    text-align: center;
+    color: beige;
+
+}
+
+#bt11{
+    color: bisque;
+    background-color: rgb(137, 223, 52);
+}
+
+#a{
+    font-family: cursive;
+    color: rgb(226, 233, 122);
+}
+
+#bt2{
+    color: rgb(212, 129, 250);
+    background-color: rgb(96, 243, 152);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+#bt3{
+    color: rgb(212, 129, 250);
+    background-color: rgb(243, 96, 96);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+#name1{
+    font-family: Bradley Hand, cursive;
+    color: rgb(15, 99, 80);
+}
