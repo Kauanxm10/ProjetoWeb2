@@ -5,7 +5,7 @@ Este é um sistema de blog inspirado no tema *The Midnight Gospel*, onde os usu�
 ## 🚀 Tecnologias Utilizadas
 
 - **PHP** - Back-end e lógica do sistema
-- **Bootstrap** - Estilização e design responsivo
+- **Bootstrap e CSS** - Estilização e design responsivo
 - **MySQL** - Banco de dados para armazenar usuários e postagens
 
 ## 📌 Funcionalidades
